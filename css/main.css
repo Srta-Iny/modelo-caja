@@ -1,17 +1,20 @@
 .caja_externa{
 	background-color: pink;
 	width: 1000px;
-	border: 10px solid blue;
+	border-top: 10px solid blue;
+	border-bottom: 10px solid blue;
+	border-left: 5px solid blue;
+	border-right: 5px solid blue; 
 	margin:10px;
+	padding: 10px;
 	
 }
 .caja_interna{
-	
 	border: 1px dashed black;
 	background-color:white;
 	margin:30px 10px  50px 60px;
+
 }
 p{
-	
 	text-align: center;
 }
